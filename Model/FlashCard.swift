@@ -8,8 +8,8 @@
 import Foundation
 
 struct FlashCardModel  {
-    var provinceText : String
+    var provinceText: String
     var image: String
-    var templeText : String
-    var descriptionText : String
+    var templeText: String
+    var descriptionText: String
 }
