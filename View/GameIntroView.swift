@@ -11,7 +11,7 @@ struct GameIntroView: View {
     var body: some View {
         ZStack {
             Color(red: 0.9, green: 0.9, blue: 0.8, opacity: 1.00).edgesIgnoringSafeArea(.all)
-            Text("           Before we start the game, \nlet's get to know the meaning of each \npart structure of the buddhist temple!")
+            Text("           Before we start the game, \nlet's get to know the meaning of each \npart structure of the buddhist temple!!")
                 .font(.system(size: 30))
                 .fontWeight(.semibold)
                 .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .top)
